@@ -1,0 +1,25 @@
+import type { Metadata } from 'next'
+import { Providers } from './components/Providers'
+import './globals.css'
+
+export const metadata: Metadata = {
+  title: 'LinguaFrame - Social & Onchain Language Utility',
+  description: 'Context-specific translations and collaborative language learning for Farcaster',
+  icons: {
+    icon: '/icon-256x256.png',
+  },
+}
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
+  return (
+    <html lang="en">
+      <body className="gradient-bg min-h-screen">
+        <Providers>{children}</Providers>
+      </body>
+    </html>
+  )
+}
