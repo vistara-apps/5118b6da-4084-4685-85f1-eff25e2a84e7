@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "LinguaFrame",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-5e2a84e7-s961.vercel.app",
+    "imageUrl": "https://5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app/image.png",
+    "splashImageUrl": "https://5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-5e2a84e7-s961.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "LinguaFrame is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app/screenshot1.png",
+      "https://5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app/hero.png",
+    "tagline": "LinguaFrame",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "LinguaFrame",
+    "ogDescription": "LinguaFrame is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+LinguaFrame+at+https%3A%2F%2F5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app"
+  }
+}
