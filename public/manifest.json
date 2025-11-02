@@ -1,14 +1,27 @@
 {
   "name": "LinguaFrame",
-  "description": "LinguaFrame is a Base Mini App built with Zara.",
-  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
-  "external_url": "https://5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app",
-  "properties": {
-    "app": {
-      "name": "LinguaFrame",
-      "description": "LinguaFrame is a Base Mini App built with Zara.",
-      "url": "https://5118b6da-4084-4685-85f1-eff25e2a84e7.vercel.app",
-      "icon": "https://0co.to/images/zara-2.png"
+  "short_name": "LinguaFrame",
+  "description": "Context-specific translations and collaborative language learning for Farcaster",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1929",
+  "theme_color": "#0052ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
-  }
+  ],
+  "categories": ["education", "social", "utilities"],
+  "image": "/icon-512x512.png",
+  "external_url": "https://app-5e2a84e7-s961.vercel.app"
 }
