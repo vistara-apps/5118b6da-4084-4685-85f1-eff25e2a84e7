@@ -29,5 +29,15 @@
     "eslint": "^8.57.1",
     "eslint-config-next": "15.3.3",
     "typescript": "^5.7.2"
+  },
+  "overrides": {
+    "rimraf": "^4.4.1",
+    "glob": "^9.3.5",
+    "@humanwhocodes/config-array": "npm:@eslint/config-array@^0.18.0",
+    "@humanwhocodes/object-schema": "npm:@eslint/object-schema@^2.0.3",
+    "@paulmillr/qr": "npm:qr@^0.1.0",
+    "@walletconnect/sign-client": "^2.21.2",
+    "@walletconnect/universal-provider": "^2.21.2",
+    "use-sync-external-store": "^1.2.2"
   }
 }
