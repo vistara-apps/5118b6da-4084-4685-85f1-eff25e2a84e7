@@ -26,7 +26,7 @@
     "@types/node": "^20.17.10",
     "@types/react": "^19.0.6",
     "@types/react-dom": "^19.0.2",
-    "eslint": "^8.57.1",
+    "eslint": "^9.17.0",
     "eslint-config-next": "15.3.3",
     "typescript": "^5.7.2"
   },
@@ -36,8 +36,8 @@
     "@humanwhocodes/config-array": "npm:@eslint/config-array@^0.18.0",
     "@humanwhocodes/object-schema": "npm:@eslint/object-schema@^2.0.3",
     "@paulmillr/qr": "npm:qr@^0.1.0",
-    "@walletconnect/sign-client": "^2.21.2",
-    "@walletconnect/universal-provider": "^2.21.2",
+    "@walletconnect/sign-client": "^2.22.0",
+    "@walletconnect/universal-provider": "^2.22.0",
     "use-sync-external-store": "^1.2.2"
   }
 }
